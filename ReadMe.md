@@ -25,8 +25,11 @@ Basic project/repo setup for Python programming using Anaconda.
 
 ## Usage
 
-If you now go to File > New File > Python File and create a new file, you should see 'Python', version number and environment name in the bottom bar.
+If you now go to **File > New File > Python File** and create a new file, you should see 'Python', version number and environment name in the bottom bar.
 
-Try to run a simple Python ('.py') file to test:
+Try to create/run a simple Python ('.py') file to test.
 
-* such as python-test.py file in this repo
+Or try one of these:
+
+* **python-test.py** in this repo
+* **jupyter-test.ipynb** also in this repo
