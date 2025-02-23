@@ -7,9 +7,9 @@ Basic project/repo setup for Python programming using Anaconda.
 1. Anaconda downloaded/installed
 2. VS Code (not essential, but assumed for purposes of this info)
 3. Python extension installed in VS Code
-3. Mac OS (also not essential, but assumed for these purposes)
+3. Mac OS (also not essential, but demo is based on Mac)
 
-## Process
+## Process for setup
 
 1. Open VS Code
 2. File > Open Folder
@@ -22,6 +22,12 @@ Basic project/repo setup for Python programming using Anaconda.
 6. Activate in Terminal: conda activate myenv (or whatever name you used)
     * you will notice Terminal prompt starts with (myenv) instead of (base) now
 7. Command Palette > Select Python Interpreter: select activated environment
+
+## Install Libraries
+
+Libraries are installed using conda (instead of pip):
+
+Terminal: conda install numpy pandas seaborn
 
 ## Usage
 
