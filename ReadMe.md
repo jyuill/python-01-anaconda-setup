@@ -33,3 +33,11 @@ Or try one of these:
 
 * **python-test.py** in this repo
 * **jupyter-test.ipynb** also in this repo
+    * ensure kernel is set to Conda environment (myenv in this case)
+    * may need to install **ipykernel** (you will be prompted)
+
+## Re-use later
+
+Once the environment is set up, you should be good to go.
+
+You may have to **reactivate** the environment: conda activate myenv
