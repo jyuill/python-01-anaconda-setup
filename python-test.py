@@ -3,4 +3,4 @@ import seaborn as sns
 df = sns.load_dataset('tips')
 print(df.head())
 print(df.describe())
-df['total_bill'].mean()
+print(df['total_bill'].mean())
